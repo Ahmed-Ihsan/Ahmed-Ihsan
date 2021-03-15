@@ -6,23 +6,18 @@
 
 Programmer and software developer in many fields such as image processing, web and IOT.
 
-EXPERIENCE الخبرات 
-FREELANCER: مبرمج مستقل
-    Activities: النشاطات
+EXPERIENCE 
+FREELANCER:
+    Activities: 
 •	Developing image processing programs and identifying people or objects by analyzing the images captured by the camera.
- تطوير برامج معالجة الصور وتحديد الأشخاص أو الأشياء من خلال تحليل الصور الملتقطة بواسطة الكاميرا
 
 •	Programming and design of web sites on the Internet.
-برمجة وتصميم مواقع الويب على الإنترنت.
 
 •	IOT programmer and developer by Arduino or Raspberry pi.
-بناء الانظمة المدمجة و الانظمة المؤتمتة بواسطة لوحة  Arduino أو .Raspberry pi
 
 •	PLC programming to control industrial devices and machines.
-       برمجة PLC للتحكم في الأجهزة والآلات الصناعية.
 
 •	3D design using Blender.
-تصميم ثلاثي الأبعاد باستخدام Blender.
 
 PROJECTS
 2019 
@@ -34,10 +29,8 @@ ARDUINO
 
 2020 
 RASPBERRY PI, IMAGE PROCESSING
-•	Facial Recognition:
-التعرف على الاشخاص من خلال معالجة الصور.
+•	Facial Recognition:ا
 •	Translator video:
-ترجمة مقاطع الفديو عن طريق معالجة الصور و المعالجة الصوتي .
 	
 2021 
 1.	WEB SITE
@@ -51,7 +44,8 @@ SKILLS
 •	Web site administrator & Maintenance
 •	Git & GitHub
 •	Arduino
-•	Raspberry pi	•	System analysis
+•	Raspberry pi	
+•	System analysis
 •	3D Blender
 •	PLC
 •	Microsoft Office
