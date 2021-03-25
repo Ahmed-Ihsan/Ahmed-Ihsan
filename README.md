@@ -33,10 +33,10 @@ RASPBERRY PI, IMAGE PROCESSING:
 
 •	Facial Recognition:ا
 •	Translator video:
-1.	WEB SITE
+-	WEB SITE
 (Flask – python – JavaScript - full stack – Ajax – Git – sass - Heroku – SSL – Security)
-2.	PLC
-3.	Basic programming PLC	
+-	Basic programming PLC
+-       node js	
 
 
 SKILLS
@@ -50,6 +50,7 @@ SKILLS
 •	PLC
 •	Microsoft Office
 •	Image processing
+-       node js
 
 PROGRAMMING SKILLS :
 
@@ -57,7 +58,8 @@ PROGRAMMING SKILLS :
 •	Software Developer by python
 - full stack Developer
 	Using:
-(Html – CSS - JS - Python – Bootstrap) In addition to flask or Django frameworks.
+(Html – CSS - JS - Python – Bootstrap) In addition to flask , Django or node js frameworks.
+
 •	Databases: Building databases with SQL
 
 #PROGRAMMING LANGUAGES :
@@ -66,7 +68,7 @@ PROGRAMMING SKILLS :
 
 Learning now:
 - networks 
-- node js
+- php laravel
 - flutter
 
 
